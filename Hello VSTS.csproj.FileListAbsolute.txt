@@ -1,0 +1,7 @@
+C:\AA\Hello VSTS\Hello VSTS\bin\Debug\Hello VSTS.exe.config
+C:\AA\Hello VSTS\Hello VSTS\bin\Debug\Hello VSTS.exe
+C:\AA\Hello VSTS\Hello VSTS\bin\Debug\Hello VSTS.pdb
+C:\AA\Hello VSTS\Hello VSTS\obj\Debug\Hello VSTS.csprojAssemblyReference.cache
+C:\AA\Hello VSTS\Hello VSTS\obj\Debug\Hello VSTS.csproj.CoreCompileInputs.cache
+C:\AA\Hello VSTS\Hello VSTS\obj\Debug\Hello VSTS.exe
+C:\AA\Hello VSTS\Hello VSTS\obj\Debug\Hello VSTS.pdb
